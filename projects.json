@@ -1,14 +1,23 @@
 [
   {
-    "name": "twin",
-    "description": "twin",
-    "link": "https://example.com",
-    "code": "https://example.com"
+    "name": "cuh",
+    "subtitle": "cuh",
+    "link": "cuh",
+    "images": ["https://w0rldwide3.github.io/mycoolsite/palette.gif"],
+    "sections": [
+      {"title": "Overview", "content": "fff"},
+      {"title": "Features", "content": "ffff", "images": ["https://w0rldwide3.github.io/mycoolsite/world.gif"]},
+      {"title": "Usage", "content": "ffffffff."}
+    ]
   },
   {
-    "name": "twin",
-    "description": "twin",
-    "link": "https://example.com",
-    "code": "https://example.com"
+    "name": "fqqq",
+    "subtitle": "o",
+    "link": "fqqq",
+    "images": ["https://w0rldwide3.github.io/mycoolsite/world.gif"],
+    "sections": [
+      {"title": "Overview", "content": "fqqq"},
+      {"title": "Gallery", "content": "fqqq", "images": ["https://w0rldwide3.github.io/mycoolsite/palette.gif", "fqqq"]}
+    ]
   }
 ]
